@@ -26,7 +26,7 @@ navbar-links:
   Photos: "photography"
   Projects:
     - SSDC: "http://www.smallsat.club/"
-    - AR XA Rebuild: "pages/2019-02-28-AR-XA-Rebuild"
+    - AR XA Rebuild: "_posts/2019-02-28-AR-XA-Rebuild"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
 
@@ -84,7 +84,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: mrfusion88
+  steam: zagyorko
 #  twitch: yourname
 #  yelp: yourname
 
