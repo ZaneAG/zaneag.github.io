@@ -25,6 +25,7 @@ description: Zane Gyorko
 navbar-links:
   Photos: "photography"
   Projects:
+    - SSDC: "http://www.smallsat.club"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     About Me: "aboutme"
