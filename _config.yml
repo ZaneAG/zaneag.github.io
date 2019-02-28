@@ -26,7 +26,7 @@ navbar-links:
   Photos: "photography"
   Projects:
     - SSDC: "http://www.smallsat.club/"
-    - AR XA Rebuild: "_posts/2019-02-28-AR-XA-Rebuild"
+    - AR XA Rebuild: "xarebuild"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
 
