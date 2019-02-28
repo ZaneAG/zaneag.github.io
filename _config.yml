@@ -25,7 +25,6 @@ description: Zane Gyorko
 navbar-links:
   Photos: "photography"
   Projects:
-    - Page one: ""
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     About Me: "aboutme"
