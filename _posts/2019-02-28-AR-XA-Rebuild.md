@@ -19,6 +19,6 @@ Pretty awful condition. Main concerns were the heavy degradation of the paint on
 
 ### Disassembly
 
-<img src="/img/xa-before.jpg" alt="AR XA Guts" align="center"/>
+<img src="/img/xa-inside.jpg" alt="AR XA Guts" align="center"/>
 
 Step one was to take the whole thing apart. It's unsurprisingly not too complicated inside.
