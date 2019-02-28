@@ -26,7 +26,7 @@ navbar-links:
   Photos: "photography"
   Projects:
     - SSDC: "http://www.smallsat.club/"
-    - AR XA Rebuild: "http://zaneag.github.io/2018-02-28-AR-XA-Rebuild"
+    - AR XA Rebuild: "2018-02-28-AR-XA-Rebuild"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"
 
