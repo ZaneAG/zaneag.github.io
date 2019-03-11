@@ -22,14 +22,18 @@ common-js:
   <body>
 
     {% include gtm_body.html %}
-  
+
     {% include nav.html %}
 
     {{ content }}
 
+    <script src="/js/jquery-1.11.2.min.js"></script>
+
+    {% include lightbox.html %}
+
     {% include footer.html %}
-  
+
     {% include footer-scripts.html %}
-  
+
   </body>
 </html>
