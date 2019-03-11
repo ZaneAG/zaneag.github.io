@@ -11,7 +11,17 @@ bigimg:
   - "/img/fedex-field.jpg" : "FedEx Field, Landover MD"
 ---
 
-<div class="posts-list">
+# Introduction
+
+Decades of research, hard work, and building infrastructure led to the internet becoming so ridiculously accessible that I am able to make a website dedicated solely to myself for no reason other than the fact that it's a neat thing to do.
+
+## Why are you here?
+
+If you've arrived to this website, welcome! This serves as a hub for tracking my projects and other activities.
+
+
+
+<!--<div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -75,4 +85,4 @@ bigimg:
   </li>
   {% endif %}
 </ul>
-{% endif %}
+{% endif %}-->
