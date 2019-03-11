@@ -4,11 +4,11 @@ title: About me
 subtitle: Who am I?
 ---
 
-# UF Student
+# University of Florida
 
 <img src="/img/century-tower.jpg" alt="Century Tower. Gainesville, FL" align="center"/>
 
-## University of Florida Student
+## UF Student
 
 * Third Year
 * Electrical Engineering
