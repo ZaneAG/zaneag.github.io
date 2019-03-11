@@ -25,7 +25,7 @@ description: Zane Gyorko
 navbar-links:
   Photos: "photography"
   Projects:
-    - SSDC: "http://www.smallsat.club/"
+    - SSDC: "http://www.ufsmallsat.club/"
     - AR XA Rebuild: "arxa"
     - GitHub Pages: "https://pages.github.com/"
   About Me: "aboutme"

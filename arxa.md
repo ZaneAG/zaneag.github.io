@@ -92,13 +92,16 @@ On top of ensuring that cable failure won't put the table out of commission, I f
 
 ### Power Socket
 
-The previous power cable was ungrounded and so small that it was almost scary every time I plugged or unplugged it. The obvious replacement was a standard C14 power socket like you'd expect to see on the back of your desktop PC. I ended up getting one with a fuse built into the housing for an added bonus.
+The previous power cable was ungrounded and so small that it was almost scary every time I plugged or unplugged it.
+
+The obvious replacement was a standard C14 power socket like you'd expect to see on the back of your desktop PC. I ended up getting one with a fuse built into the housing for an added bonus.
 
 ![AR XA Power Socket Mark](img/power-socket-1.jpg)
 
 First I determined the best spot to put the power socket on the rear side of the turntable.
 
-It was important to get this right, because the interior components of the table back up all the way to the wood in some places, and the socket I purchased had a nontrivial depth. I ended up finding an appropriate spot for it and marked it out.
+It was important to get this right, because the interior components of the table back up all the way to the wood in some places, and the socket I purchased had a nontrivial depth.
+I ended up finding an appropriate spot for it and marked it out.
 
 ![AR XA Power Socket Hole](img/power-socket-2.jpg)
 
@@ -112,7 +115,7 @@ It fits!
 
 ### Audio Jacks
 
-Similar to the power cable, the audio cables were in need of replacement. These were not only much smaller, but only needed a simple circular hole to be installed.
+Similar to the power cable, the audio cables were in need of replacement. The RCA jacks I picked up were much smaller than the power socket and only needed a simple circular hole to be installed.
 
 ![AR XA RCA Hole](img/rca-1.jpg)
 
@@ -123,3 +126,5 @@ I'll be staining the inside of these holes as soon as I can find something that 
 ![AR XA RCA Jack](img/rca-2.jpg)
 
 Installing the jacks was nice and easy. I put them fairly close to where the tonearm wires feed through to the underside of the table.
+
+##Stay Tuned!
