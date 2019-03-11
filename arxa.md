@@ -32,6 +32,7 @@ With a better understanding of both how this turntable works and what exactly I 
   4. Exchange the well worn cartridge that was previously installed with a cleaner and more high quality replacement. Then recalibrate the tonearm and tracking force.
   5. Replace the previous platter foam with a new higher quality mat.
 
+
 ## Step 1: Disassembly
 
 ![AR XA Guts](img/xa-inside.jpg)
