@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: AR XA Rebuild
 subtitle: Restoring an Acoustic Research XA
 bigimg: /img/xa-before.jpg
@@ -15,7 +15,12 @@ The one I'm working had been sitting for at least a couple of years and deserved
 
 <img src="/img/xa-before.jpg" alt="AR XA: Before" align="center"/>
 
-Pretty awful condition. Main concerns were the heavy degradation of the paint on the metal base of the plinth, the foam platter mat, and the phono cartridge.
+Pretty awful condition.
+
+Main concerns:
+* Heavy degradation of the paint on the metal base of the plinth
+* Condition of the foam platter mat
+* Replacing the phono cartridge
 
 ### Disassembly
 
