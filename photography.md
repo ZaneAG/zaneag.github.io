@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: My Photos
 subtitle: Nikon D3100 / OnePlus 6
 ---
