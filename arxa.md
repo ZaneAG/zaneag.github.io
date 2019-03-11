@@ -127,4 +127,4 @@ I'll be staining the inside of these holes as soon as I can find something that 
 
 Installing the jacks was nice and easy. I put them fairly close to where the tonearm wires feed through to the underside of the table.
 
-##Stay Tuned!
+## Stay Tuned!
