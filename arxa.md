@@ -13,7 +13,7 @@ The one I'm working had been sitting for at least a couple of years and deserved
 
 ### Before
 
-<img src="/img/xa-before.jpg" alt="AR XA: Before" align="center"/>
+![AR XA: Before](img/xa-before.jpg)
 
 Pretty awful condition.
 
@@ -24,6 +24,6 @@ Main concerns:
 
 ### Disassembly
 
-<img src="/img/xa-inside.jpg" alt="AR XA Guts" align="center"/>
+![AR XA Guts](img/xa-inside.jpg)
 
 Step one was to take the whole thing apart. It's unsurprisingly not too complicated inside.
