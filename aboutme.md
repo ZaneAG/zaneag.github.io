@@ -14,7 +14,11 @@ subtitle: Who am I?
 * Electrical Engineering
 * Space Systems Design Club (2018-2019 President)
 
+
+
+
 # Personal History
+
 
 ## Pinball Wizard
 
