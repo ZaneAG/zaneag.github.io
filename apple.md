@@ -19,7 +19,7 @@ I got this one while I was actually still working on that Woz project, and promi
 
 Here's a rather poor quality photo of it running Excel:
 
-![Microsoft Excel on a Mac!](img/macseexcel.jpg)
+![Microsoft Excel on a Mac!](img/macexcel.jpg)
 
 ## The First Apple IIe
 
@@ -34,6 +34,9 @@ The 9 inch Macs are super cool. It was the first Apple Computer I ever owned, bu
 At this point my interest was widely apparent, and my unbeknownst to me, my grandpa still had his Apple IIe that he purchased new when it came out, years before I was even born. My mom talked to her dad and arranged to have him send it to me as a surprise, and I was thrilled! With the IIe came a stack of boxes taller than I was - filled with expansion cards, software, manuals, accessories, and more.
 
 ![IIe Software - Real Floppies!](img/2efloppies.jpg)
+
+Probably still haven't run 90% of these disks. One day!
+
 ![Imagewriter I (Stacked atop another...)](img/imagewriters.jpg)
 
 I always wanted an Apple II of some kind, and this was more than I could ever ask for. I wrote my first program on this very computer in Applesoft BASIC. All it did was output numbers ascending from 1 upward, but I still remember it.
