@@ -27,7 +27,7 @@ navbar-links:
   Projects:
     - SSDC: "http://www.ufsmallsat.club/"
     - AR XA Rebuild: "arxa"
-    - GitHub Pages: "https://pages.github.com/"
+    - Old Apple Computers: "apple"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -76,7 +76,7 @@ social-network-links:
   twitter: zgyorko
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: zane-gyorko-7b1420102
+  linkedin: zanegyorko
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -84,7 +84,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: zagyorko
+  steam: 76561198039475649
 #  twitch: yourname
 #  yelp: yourname
 

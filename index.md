@@ -15,14 +15,11 @@ bigimg:
 
 Decades of research, hard work, and building infrastructure led to the internet becoming so ridiculously accessible that I am able to make a website dedicated solely to myself for no reason other than the fact that it's a neat thing to do.
 
-### If you've arrived to this website, welcome!
+### Why does this exist?
 
-This serves as a hub for tracking my projects and other activities.
+This site serves as a hub for tracking my projects and other activities.
 
-This site is currently more or less a work in progress. Content should be updating fairly frequently with new pages, photos, links, and more.
-
-Unless I have to spend time doing homework instead.
-
+Currently more or less a work in progress. Content should be updating fairly frequently with new pages, photos, links, and more. Feast your eyes.
 
 
 <!--<div class="posts-list">
