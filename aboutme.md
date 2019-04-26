@@ -17,8 +17,14 @@ subtitle: Who am I?
 
 <img src="/img/pinball-wizard.jpg" alt="" align="center"/>
 
-There has to be a twist
+There has to be a twist.
 
 ## Eagle Scout
 
 <img src="/img/eagle-scout.jpg" alt="" align="center"/>
+
+## Has Seen The Vessel
+
+<img src="/img/the-vessel.jpg" alt="" align="center"/>
+
+* Pinecone
