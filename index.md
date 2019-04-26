@@ -11,15 +11,18 @@ bigimg:
   - "/img/fedex-field.jpg" : "FedEx Field, Landover MD"
 ---
 
-# Why are you here?
 
-Decades of research, hard work, and building infrastructure led to the internet becoming so ridiculously accessible that I am able to make a website dedicated solely to myself for no reason other than the fact that it's a neat thing to do.
-
-### Why does this exist?
+# Why did I make this?
 
 This site serves as a hub for tracking my projects and other activities.
 
 Currently more or less a work in progress. Content should be updating fairly frequently with new pages, photos, links, and more. Feast your eyes.
+
+Nobody else in the world would possibly ever want the domain "zanegyorko.com", since I am the only person in the world with that name. So I bought it for $12. This site is hosted on GitHub pages so there's no ongoing upkeep cost. Easy.
+
+The real question is: Why are you here?
+
+
 
 
 <!--<div class="posts-list">
