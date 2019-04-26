@@ -17,7 +17,7 @@ subtitle: Who am I?
 
 <img src="/img/pinball-wizard.jpg" alt="" align="center"/>
 
-How do you think he does it?
+There has to be a twist
 
 ## Eagle Scout
 
