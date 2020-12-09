@@ -4,11 +4,17 @@ title: Zane Gyorko
 subtitle: My name is Zane. This is my Website
 use-site-title: true
 bigimg:
-  - "/img/sebastian-bridge.png" : "Sebastian Inlet, FL"
-  - "/img/uss-intrepid.jpg" : "USS Intrepid, NY"
-  - "/img/tennessee-2018.jpg" : "Tennessee, Summer 2018"
-  - "/img/yellowstone.JPG" : "Old Faithful, Yellowstone"
-  - "/img/fedex-field.jpg" : "FedEx Field, Landover MD"
+  - "/img/front/sebastian-bridge.png" : "Sebastian Inlet, FL"
+  - "/img/front/uss-intrepid.jpg" : "USS Intrepid, NY"
+  - "/img/front/tennessee-2018.jpg" : "Tennessee, Summer 2018"
+  - "/img/front/yellowstone.JPG" : "Old Faithful, Yellowstone"
+  - "/img/front/fedex-field.jpg" : "FedEx Field, Landover MD"
+  - "/img/front/gardenofthegods_clean.jpg" : "Garden of the Gods, Colorado Springs"
+  - "/img/front/golden-gate_clean.jpg" : "Golden Gate Bridge, San Francisco"
+  - "/img/front/bigsky_clean.jpg" : "Big Sky, MT"
+  - "/img/front/sequoia_clean.jpg" : "Sequoia National Park"
+  - "/img/front/deathvalley_clean.jpg" : "Death Valley National Park"
+  - "/img/front/kelsodunes_clean.jpg" : "Kelso Sand Dunes"
 ---
 
 

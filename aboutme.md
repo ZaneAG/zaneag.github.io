@@ -6,25 +6,20 @@ subtitle: Who am I?
 
 ## UF Student
 
-<img src="/img/century-tower.jpg" alt="Century Tower. Gainesville, FL" align="center"/>
+<img src="/img/century_tower_clean.jpg" alt="Century Tower. Gainesville, FL" align="center"/>
 
-* Third Year
+* Fifth Year
 * Electrical Engineering
 * Space Systems Design Club (2018-2019 President)
 
 
 ## Pinball Wizard
 
-<img src="/img/pinball-wizard.jpg" alt="" align="center"/>
+<img src="/img/abme/pinball-wizard.jpg" alt="" align="center"/>
 
 There has to be a twist.
 
 ## Eagle Scout
 
-<img src="/img/eagle-scout.jpg" alt="" align="center"/>
+<img src="/img/abme/eagle-scout.jpg" alt="" align="center"/>
 
-## Has Seen The Vessel
-
-<img src="/img/the-vessel.jpg" alt="" align="center"/>
-
-* Pinecone
