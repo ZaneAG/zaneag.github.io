@@ -6,7 +6,7 @@ subtitle: Who am I?
 
 ## UF Student
 
-<img src="/img/abme_century_tower_clean.jpg" alt="Century Tower. Gainesville, FL" align="center"/>
+<img src="/img/abme/century_tower_clean.jpg" alt="Century Tower. Gainesville, FL" align="center"/>
 
 * Fifth Year
 * Electrical Engineering
