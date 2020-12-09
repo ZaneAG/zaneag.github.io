@@ -13,7 +13,7 @@ The one I'm working had been sitting for at least a couple of years and deserved
 
 ## Before
 
-![AR XA: Before](img/xa-before.jpg)
+![AR XA: Before](img/arxa/xa-before.jpg)
 
 Pretty awful condition.
 
@@ -35,7 +35,7 @@ With a better understanding of both how this turntable works and what exactly I 
 
 ## Step 1: Disassembly
 
-![AR XA Guts](img/xa-inside.jpg)
+![AR XA Guts](img/arxa/xa-inside.jpg)
 
 Step one was to take the whole thing apart. It's unsurprisingly not too complicated inside.
 
@@ -43,47 +43,45 @@ Despite the overall condition being significantly poor, the turntable did indeed
 
 ## Repainting the Metal Base of the Plinth
 
-![AR XA Plinth: Old Paint](img/xa-plinth-before.jpg)
+![AR XA Plinth: Old Paint](img/arxa/xa-plinth-before.jpg)
 
 Here it is by itself after removing all of the major components and hardware. You can really see how poor the condition of the paint became, and it was definitely the worst aspect of the table appearance wise.
 
 As I expected, stripping all this nasty paint off of the plinth turned out to be pretty difficult. I used a can of "Goof Off" spray on paint stripper to start the process and get the thicker areas of paint mostly gone before I started to sand it down.
 
-![Goof Off Paint Stripper](img/goof-off.jpg)
+![Goof Off Paint Stripper](img/arxa/goof-off.jpg)
 
 This paint stripper is nasty stuff, don't get it on your hands.
 
 I followed the directions on the bottle, spraying a layer of the stripper onto the top of the plinth, waiting a bit, and then using a scraper to slowly push the old paint off of the metal. This was a very messy, gross, and probably pretty unhealthy process. But after about two or three iterations of Goof Off coats, I was able to remove most of the old paint.
 
-![Goof Off Round 1](img/paint-strip-1.jpg)
+![Goof Off Round 1](img/arxa/paint-strip-1.jpg)
 
 One coat started to make some progress, you can see here in the bottom left corner some metal is starting to show. But there's still a ton of paint caked on, and it's definitely gonna take a few more repetitions to get ready to sand.
 
-![Goof Off Round 2](img/paint-strip-2.jpg)
+![Goof Off Round 2](img/arxa/paint-strip-2.jpg)
 
 Getting better...
 
-![Goof Off Round 3](img/paint-strip-3.jpg)
+![Goof Off Round 3](img/arxa/paint-strip-3.jpg)
 
 This wasn't my ideal point to start sanding, but considering how strong the chemicals in that Goof Off were, I decided to move on a bit earlier than I originally planned. Even so, much of the paint was removed at this point and overall I was happy with how much I was able to take off.
 
-![Plinth Sanded Down to Bare Metal ](img/plinth-bare.jpg)
+![Plinth Sanded Down to Bare Metal ](img/arxa/plinth-bare.jpg)
 
-Sanded the plinth down to bare metal to prep it for a fresh coat of new paint. I decided to go with glossy black.
+Sanded the plinth down to bare metal to prep it for a fresh coat of new paint. I decided to go with black.
 
 Other projects seemed to simply use Rust-Oleum spray paint, so I followed along.
 
-![Plinth First Paint Job Attempt](img/plinth-bubble-paint.jpg)
+![Plinth Repainted](img/arxa/arxa_repainted.jpg)
 
-The paint is still wet in this photo, but I'll be repainting it anyway for reasons explained below.
+After a failed attempt or two, I was able to get a decent coat of paint to stick.
 
-Unfortunately, the sanding job was less than perfect, and the paint didn't take very well at first. In my first attempt, there was a lot of bubbling which you can see starting to happen in the photo above.
-
-I'm going to need to re-sand the plinth and possibly determine a better technique to paint it.
+It's not perfect but it certainly looks a lot better than it did in the beginning. The satin black color turned out very nice and it should fit well with the walnut colored frame.
 
 ## Replacing Old Wiring
 
-![AR XA Wires](img/xa-wires.jpg)
+![AR XA Wires](img/arxa/xa-wires.jpg)
 
 The cables were hard wired onto the inside of the turntable since before I owned it. The cables were relatively low quality and obviously in less than fantastic shape.
 
@@ -97,20 +95,20 @@ The previous power cable was ungrounded and so small that it was almost scary ev
 
 The obvious replacement was a standard C14 power socket like you'd expect to see on the back of your desktop PC. I ended up getting one with a fuse built into the housing for an added bonus.
 
-![AR XA Power Socket Mark](img/power-socket-1.jpg)
+![AR XA Power Socket Mark](img/arxa/power-socket-1.jpg)
 
 First I determined the best spot to put the power socket on the rear side of the turntable.
 
 It was important to get this right, because the interior components of the table back up all the way to the wood in some places, and the socket I purchased had a nontrivial depth.
 I ended up finding an appropriate spot for it and marked it out.
 
-![AR XA Power Socket Hole](img/power-socket-2.jpg)
+![AR XA Power Socket Hole](img/arxa/power-socket-2.jpg)
 
 To cut the hole, I drilled holes in each corner of the marked rectangle and used a jigsaw to cut along the sides. This was a nerve wracking process as one wrong move could have put me in serious trouble. As they say, "measure twice, cut once".
 
 In the end it was fine, and I was left with a hole about the size that I needed. A bit of filing along the edges and she fit right in, nice and snug.
 
-![AR XA Power Socket Hole](img/power-socket-3.jpg)
+![AR XA Power Socket Hole](img/arxa/power-socket-3.jpg)
 
 It fits!
 
@@ -118,13 +116,13 @@ It fits!
 
 Similar to the power cable, the audio cables were in need of replacement. The RCA jacks I picked up were much smaller than the power socket and only needed a simple circular hole to be installed.
 
-![AR XA RCA Hole](img/rca-1.jpg)
+![AR XA RCA Hole](img/arxa/rca-1.jpg)
 
 I decided to go with a counterbored hole to give the table a slightly more sleek look.
 
 I'll be staining the inside of these holes as soon as I can find something that reasonably matches the original "oiled walnut" stain of the table.
 
-![AR XA RCA Jack](img/rca-2.jpg)
+![AR XA RCA Jack](img/arxa/rca-2.jpg)
 
 Installing the jacks was nice and easy. I put them fairly close to where the tonearm wires feed through to the underside of the table.
 
