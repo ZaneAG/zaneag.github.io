@@ -2,7 +2,7 @@
 layout: page
 title: AR XA Rebuild
 subtitle: Restoring an Acoustic Research XA
-bigimg: /img/xa-before.jpg
+bigimg: /img/arxa/xa-before.jpg
 tags: [music, projects]
 ---
 
